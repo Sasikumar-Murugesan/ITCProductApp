@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITCProductInfo</string>
+    <string name="product_list_tittle">ITC Product List</string>
+    <string name="product_details_tittle">Product Details</string>
+    <string name="retry">Retry</string>
+    <string name="price_hint">INR 56990</string>
+    <string name="short_description">Short Description</string>
+    <string name="apple_macbook_air_core_i5">Apple MacBook Air Core i5</string>
+</resources>
